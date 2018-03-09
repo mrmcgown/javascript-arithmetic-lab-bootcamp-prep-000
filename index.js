@@ -19,12 +19,12 @@ function divide(a, b){
   return number;
 }
 
-function inc(n){
-  number += n;
+function inc(){
+  number += 1;
   return number;
 }
 
-function dec(n){
+function dec(){
   number -= n;
   return number;
 }
