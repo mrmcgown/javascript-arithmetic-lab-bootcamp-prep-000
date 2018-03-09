@@ -25,6 +25,6 @@ function inc(){
 }
 
 function dec(){
-  number -= n;
+  number -= 1;
   return number;
 }
