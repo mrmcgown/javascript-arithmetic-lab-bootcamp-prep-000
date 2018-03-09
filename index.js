@@ -32,3 +32,7 @@ function dec(number){
 function makeInt(number){
   return parseInt(number, 10);
 }
+
+function preserveDecimal(number){
+  return parseFloat(number);
+}
