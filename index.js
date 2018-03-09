@@ -19,4 +19,10 @@ function divide(a, b){
   return number;
 }
 
-function
+function inc(n){
+  number += n;
+}
+
+function dec(n){
+  number -= n;
+}
