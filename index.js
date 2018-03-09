@@ -28,3 +28,7 @@ function dec(number){
   number -= 1;
   return number;
 }
+
+function makeInt(number){
+  return parseInt(number, 10);
+}
